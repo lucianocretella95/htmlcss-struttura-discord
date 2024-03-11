@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 1rem;
+    background: #222;
+    font-family: sans-serif;
+    color:antiquewhite;
+}
+
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: goldenrod;
+    size: 10rem;
+    color: black;
+    font-weight: 900;
+}
+
+
+
+
+
