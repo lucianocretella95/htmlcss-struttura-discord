@@ -51,6 +51,8 @@ header{
     background-color:pink;
     width: 50%;
     height: 15rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
 }
 
 
@@ -58,6 +60,8 @@ header{
     background-color: cornflowerblue;
     width: 20%;
     height: 15rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
 }
 
 
@@ -66,6 +70,25 @@ header{
     justify-content: center;
     background-color: antiquewhite;
 }
+
+.container3{
+    display: flex;
+    justify-content: center;
+    background-color:grey;
+}
+
+.container4{
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+
+.c5{
+    display: flex;
+    justify-content: center;
+    background-color:grey;
+}
+
 
 /* .container3{
     display: flex;
