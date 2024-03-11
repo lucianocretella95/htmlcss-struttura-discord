@@ -4,11 +4,13 @@
     box-sizing: border-box;
 }
 
+
 body{
     background: #222;
     font-family: sans-serif;
     color:antiquewhite;
 }
+
 
 .navbar{
     display: flex;
@@ -20,10 +22,70 @@ body{
     font-weight: 900;
 }
 
+
 header{
     background-color: aquamarine;
-    
+    padding: 2rem;
 }
+
+
+.container{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+}
+
+
+.square{
+    background-color: blueviolet;
+    padding: 3rem;
+    display: flex;
+    justify-content: center;
+    height: 15rem;
+    width: 15rem;
+}
+
+
+.big-column {
+    background-color:pink;
+    width: 50%;
+}
+
+
+.small-column {
+    background-color: cornflowerblue;
+    width: 20%;
+}
+
+
+.container2{
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+
+/* .container3{
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+}
+
+.container4{
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+
+.container5{
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+}
+
+.square2{
+    background-color: green;
+    height: 20rem;
+} */
 
 
 
