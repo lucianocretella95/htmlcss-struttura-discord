@@ -33,6 +33,7 @@ header{
     background-color: blue;
     display: flex;
     justify-content: center;
+    height: 15rem;
 }
 
 
@@ -49,12 +50,14 @@ header{
 .big-column {
     background-color:pink;
     width: 50%;
+    height: 15rem;
 }
 
 
 .small-column {
     background-color: cornflowerblue;
     width: 20%;
+    height: 15rem;
 }
 
 
